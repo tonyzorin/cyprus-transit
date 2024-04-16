@@ -38,7 +38,6 @@ body, html {
     padding: 10px 15px;    /* Padding for spacing */
     text-decoration: none; /* Removes underline from links */
 }
-
 .container {
     display: flex;
     flex-direction: column;
